@@ -1,0 +1,13 @@
+{
+  "@@locale" : "pl",
+  "page_home_counter" : "{count, plural, one{Nacisnąłeś guzik raz} few{Nacisnąłeś guzik {count} razy} many{Nacisnąłeś guzik {count} razy} other{Nacisnąłeś guzik {count} razy}}",
+  "@page_home_counter" : {
+    "type" : "text",
+    "description" : ""
+  },
+  "page_home_title" : "Cześć {name}",
+  "@page_home_title" : {
+    "type" : "text",
+    "description" : ""
+  }
+}

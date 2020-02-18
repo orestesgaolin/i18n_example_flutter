@@ -1,0 +1,13 @@
+{
+  "@@locale" : "en",
+  "page_home_counter" : "{count, plural, one{You have pushed the button once} other{You have pushed the button {count} times}}",
+  "@page_home_counter" : {
+    "type" : "text",
+    "description" : ""
+  },
+  "page_home_title" : "Hello {name}",
+  "@page_home_title" : {
+    "type" : "text",
+    "description" : ""
+  }
+}

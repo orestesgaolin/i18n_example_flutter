@@ -1,0 +1,13 @@
+{
+  "@@locale" : "de",
+  "page_home_counter" : "{count, plural, one{Sie haben den Knopf einmal gedrückt} other{Sie haben den Knopf {count} Mal gedrückt}}",
+  "@page_home_counter" : {
+    "type" : "text",
+    "description" : ""
+  },
+  "page_home_title" : "Halo {name}",
+  "@page_home_title" : {
+    "type" : "text",
+    "description" : ""
+  }
+}
